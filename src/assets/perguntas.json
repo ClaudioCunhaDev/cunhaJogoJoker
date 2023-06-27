@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "Onde fica y?",
+    "opcoes": ["Aqui", "Ali", "x", "y"],
+    "correta": "y"
+  },
+  {
+    "prompt": "Onde fica x?",
+    "opcoes": ["bla", "ble", "y", "x"],
+    "correta": "x"
+  },
+  {
+    "prompt": "Onde fica z?",
+    "opcoes": ["z", "x", "y", "a"],
+    "correta": "z"
+  },
+  {
+    "prompt": "Animal preferido?",
+    "opcoes": ["gato", "cao", "tigre", "leao"],
+    "correta": "gato"
+  }
+]
